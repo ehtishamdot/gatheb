@@ -126,7 +126,7 @@ export default function Chat() {
             onClick={handleEmit}
             className="h-12 font-semibold"
           >
-            Send
+            Send.
           </Button>
         </div>
         <span className="mx-auto mb-6 text-xs mt-3 text-center">
